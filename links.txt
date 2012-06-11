@@ -1,0 +1,25 @@
+
+Git Links:
+
+http://nvie.com/posts/a-successful-git-branching-model/
+
+http://blogs.atlassian.com/2012/03/git-vs-mercurial-why-git/
+http://blogs.atlassian.com/2012/02/mercurial-vs-git-why-mercurial/
+
+Visualization:
+http://code.google.com/p/gource/
+
+
+Presentation Tools:
+
+https://github.com/hakimel/reveal.js
+https://github.com/pepelsbey/shower
+https://github.com/imakewebthings/deck.js
+https://github.com/bmcmurray/hekyll
+https://github.com/bartaz/impress.js/
+https://github.com/airportyh/Preston
+http://pypi.python.org/pypi/bruce
+http://impressive.sourceforge.net/
+
+https://bitbucket.org/rivanvx/beamer/wiki/Home
+
