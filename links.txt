@@ -8,7 +8,7 @@ http://blogs.atlassian.com/2012/02/mercurial-vs-git-why-mercurial/
 
 Visualization:
 http://code.google.com/p/gource/
-
+http://vue.tufts.edu/
 
 Presentation Tools:
 
