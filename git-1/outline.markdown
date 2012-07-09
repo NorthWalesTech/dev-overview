@@ -24,11 +24,14 @@ Existing Git user with command line experience
 		GitHub
 		etc
 	
+	We are going to use the command line for the rest of the day.	
+
 Branching
 
 Remotes
 
 Making the most of your history
+       bisect
 
 Patterns
 
