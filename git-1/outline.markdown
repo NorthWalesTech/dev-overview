@@ -9,7 +9,20 @@ Existing Git user with command line experience
 
 2. Background
 	why bother with DVCS?
-	
+	what are people using?
+		Sourcetree
+		GitX
+		Command line - use for rest of day
+		GitGui
+		Netbeans/Eclipse
+		XCode
+		
+		Serverside
+		GitLite
+		Territe
+		SVNGit
+		GitHub
+		etc
 	
 Branching
 
@@ -20,3 +33,7 @@ Making the most of your history
 Patterns
 
 Git Flow
+
+Additional discussion points
+	Gerrit
+	SVNGit
