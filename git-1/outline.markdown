@@ -2,11 +2,14 @@ ACTION POINT LF - burn CDs potentially.
 ACTION POINT LK - install Git onto SAW machines.
 ACTION POINT RB - key signing
 
+At beginning - split groups to one competent person per group
+
 Target audience
 Existing Git user with command line experience
 
 1. Intro
 	who everyone is
+	splitting into groups of 
 	learning outcomes
 	expected current understanding - use version control and 'get it'
 	overview of what's to come
@@ -44,16 +47,37 @@ Existing Git user with command line experience
 		viewing staged and unstaged changes
 		committing
 		moving files
-
-GROUP SESSION 1 -> Git basics - go and do some stuff
-Sorry we've told you to do the wrong thing, undo some changes
-
-4. Git remoting
+		viewing history (GUIs), including log -p
 		
+GROUP SESSION 1 -> Git basics - go and do some stuff
+	Stage a file but don't commit it
+	Modify a different file
+	
+4. Undoing things	
+	Amending commit
+	Unstaging a staged file
+	Unmodifying a modified file
+
+5. Remotes
+	Pull & Fetch
+	Push
+	Inspecting remote - git remote show origin
+	
+6. Tagging
+	Listing
+	Creating
+		annotated
+		lightweight tags
+	Sharing tags
+
+GROUP SESSION 2
+	Undo the modification
+	Unstage the staged file
+	Amend the last commit
+	Push changes
+	Tag as "0.1" (only one group pushes tag)
 	
 Branching
-
-Remotes
 
 Making the most of your history
 
@@ -63,7 +87,9 @@ Git Flow
 
 Additional discussion points
 	Skipping staging area
+	Tagging later
 	Configuration, line endings
 	Snapshots vs differences
 	Gerrit
 	SVNGit
+	Git annex
