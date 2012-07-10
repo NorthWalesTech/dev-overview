@@ -11,7 +11,7 @@ Existing Git user with command line experience
 
 #13:00
 1. Intro 10 minutes
-	who everyone is
+	who everyone is - not Git experts but all in a similar position - self help group
 	splitting into groups of X
 	learning outcomes
 	expected current understanding - use version control and 'get it'
@@ -60,7 +60,7 @@ GROUP SESSION 1 -> Git basics - go and do some stuff 20 minutes + 20 minute coff
 	Sharing tags
 
 #14:35
-GROUP SESSION 2 - 25 minutes
+GROUP SESSION 20 - 25 minutes
 	Undo the modification
 	Unstage the staged file
 	Amend the last commit
