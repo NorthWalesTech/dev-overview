@@ -108,7 +108,7 @@ Additional discussion points
 		XCode
 		
 		Serverside
-		GitLite
+		Gitolite
 		Territe
 		SVNGit
 		GitHub
